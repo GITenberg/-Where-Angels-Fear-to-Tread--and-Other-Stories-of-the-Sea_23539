@@ -1,0 +1,32 @@
+_repo: -Where-Angels-Fear-to-Tread--and-Other-Stories-of-the-Sea_23539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robertson, Morgan
+    alias: Robertson, Morgan Andrew
+    birthdate: 1861
+    deathdate: 1915
+    gutenberg_agent_id: '25902'
+    url: http://www.gutenberg.org/2009/agents/25902
+    wikipedia: http://en.wikipedia.org/wiki/Morgan_Robertson
+description: ''
+gutenberg_issued: '2007-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sea stories, American'
+tableOfContents: '"Where angels fear to tread" -- The brain of the battle-ship --
+  The wigwag message -- The trade-wind -- Salvage -- Between the millstones -- The
+  battle of the monsters -- From the royal-yard down -- Needs must when the devil
+  drives -- When Greek meets Greek -- Primordial.'
+title: '"Where Angels Fear to Tread" and Other Stories of the Sea'
+url: http://www.gutenberg.org/ebooks/23539
