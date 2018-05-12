@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25902
     wikipedia: http://en.wikipedia.org/wiki/Morgan_Robertson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23539#-Where-Angels-Fear-to-Tread--and-Other-Stories-of-the-Sea
 gutenberg_issued: '2007-11-18'
 gutenberg_type: Text
 identifiers:
